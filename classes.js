@@ -31,8 +31,8 @@ function three () {
   var three = document.getElementById('three');
   three.classList.add('pink');
 }
-// CREATE FUNCTION makeVisible HERE
 
+// CREATE FUNCTION makeVisible HERE
 function makeVisible () {
   var makeVisible = document.getElementsByClassName("invisible")[0];
   makeVisible.classList.add('visible');
